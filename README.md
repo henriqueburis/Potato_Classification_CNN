@@ -1,1 +1,1 @@
-# Potato_Classification_CNN
+# Potato Classification Using CNN_Mixup
