@@ -1,7 +1,8 @@
 # Potato Classification Using CNN_Mixup
 
 
-By [Luiz H. Buris](http://),[Luiz H. Buris](http://),[Luiz H. Buris](http://)
+By [Luiz H. Buris](http://), [Joel F. H. Quispe](http://), [Miguel Sá](http://)
+
 
 ## Introdução
 
