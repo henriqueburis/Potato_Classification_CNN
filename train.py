@@ -145,7 +145,7 @@ criterion = nn.CrossEntropyLoss()
 optimizer = optim.SGD(net.parameters(), lr=args.lr, momentum=0.9, weight_decay=args.decay)
 
 def save_model(model):
-    torch.save(model.state_dict(), save_dir + "/"+args.seed+"model.pt")
+    torch.save(model.state_dict(), save_dir + "/"+str(args.seed)+"model.pt")
 
 
 def CreateDir(path):
