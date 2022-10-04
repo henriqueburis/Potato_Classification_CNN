@@ -32,6 +32,11 @@ If you use this method or this code in your paper, then please cite it:
 <img src="./fig/mixup-interpolation.PNG" width="500px"></img>
 </p>
 
+## Image segment classification on train model.
+
+
+XXXXXXXX
+
 ## Code organization
 
 - `train.py`: .........
