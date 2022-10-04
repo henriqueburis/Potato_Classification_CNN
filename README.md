@@ -21,7 +21,7 @@ xxxxxxxxx
 you can now carry out "run" the python scrypt with the following command:
 
 ```sh
-python3 !python3 train.py --lr=0.0001 --seed=28092022 --decay=1e-4 --batch-size 20 --epoch 200
+python3 train.py --lr=0.0001 --seed=28092022 --decay=1e-4 --batch_size 20 --epoch 200
 
 ```
 
