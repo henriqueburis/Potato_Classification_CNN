@@ -11,6 +11,21 @@ xxxxxxxxx
 
 ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/Capturar.PNG)
 
+
+## Citation
+
+If you use this method or this code in your paper, then please cite it:
+
+```
+@article{XXXXXXXXXX,
+  title={XXX},
+  author={Luiz H Buris, Joel F. H. Quisp, Miguel Sá},
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  year={20XX},
+  url={https:https://arxiv.org/pdf/XXXX.XXXXX.pdf},
+}
+```
+
 ## Mixup CNN on training
 
 <p align="center">
