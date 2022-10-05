@@ -1,4 +1,4 @@
-# Potato Classification Using CNN_Mixup
+# Potato Classification Using CNN_Mixup -------> Em Desenvolvimento
 
 
 By [Luiz H. Buris](http://), [Joel F. H. Quispe](http://), [Miguel Sá](http://)
