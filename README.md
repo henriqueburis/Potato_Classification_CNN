@@ -35,7 +35,15 @@ If you use this method or this code in your paper, then please cite it:
 ## Image segment classification on train model.
 
 
-XXXXXXXX
+hsv,frame
+
+
+Frame Teste  |  hsv Teste
+:-------------------------:|:-------------------------:
+![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/frameClone.png) |  ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/blur.png) 
+
+
+
 
 ## Code organization
 
