@@ -27,6 +27,9 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 
 parser = argparse.ArgumentParser(description='PyTorch CIFAR10 Training')
+
+parser.add_argument("--train_dir", required=True, type=str, help="Path to train data parent directory.")
+parser.add_argument("--test_dir", required=True, type=str, help="Path to test data parent directory.")
 parser.add_argument('--lr', default=0.1, type=float, help='learning rate')
 parser.add_argument('--resume', '-r', action='store_true',
                     help='resume from checkpoint')
@@ -83,13 +86,13 @@ transform_test = transforms.Compose([
 
 
 
-trainset = datasets.ImageFolder(os.path.abspath("/content/PotetoDatesets/train"), transform=transform_train)
+trainset = datasets.ImageFolder(os.path.abspath(args.train_dir), transform=transform_train)
 trainloader = torch.utils.data.DataLoader(trainset,
                                           batch_size=args.batch_size,
                                           shuffle=True, num_workers=3)
 
 
-testset = datasets.ImageFolder(os.path.abspath("/content/PotetoDatesets/test"), transform=transform_test)
+testset = datasets.ImageFolder(os.path.abspath(args.test_dir), transform=transform_test)
 testloader = torch.utils.data.DataLoader(testset, batch_size=args.batch_size,
                                          shuffle=False, num_workers=3)
                                          
