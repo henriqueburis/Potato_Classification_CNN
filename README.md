@@ -65,9 +65,11 @@ python3 train.py --train_dir '/train' --test_dir '/test' --lr=0.0001 --seed=2022
 
 ## Confusion Matrix 
 
-<p align="center">
-<img src="./fig/confusion_matrix_test.png" width="500px"></img>
-</p>
+Fold1   |  Fold2 | Fold3   |  Fold4 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/_Test-confusion_matrix1.png) |  ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/_Test-confusion_matrix2.png) |  ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/_Test-confusion_matrix3.png) |  ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/_Test-confusion_matrix4.png) 
+
+
 
 ## Graphic Train, Loss, test classification
 
