@@ -55,7 +55,8 @@ Frame Teste  |  hsv Teste
 you can now carry out "run" the python scrypt with the following command:
 
 ```sh
-python3 train.py --lr=1e-4 --seed=28092022 --decay=1e-4 --batch_size 20 --epoch 50
+
+python3 train.py --train_dir '/train' --test_dir '/test' --lr=0.0001 --seed=202210023 --decay=1e-4 --batch_size 32 --epoch 200
 
 ```
 
