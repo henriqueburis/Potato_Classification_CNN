@@ -61,7 +61,7 @@ python3 train.py --train_dir '/train' --test_dir '/test' --lr=0.0001 --seed=2022
 ```
 
 ## Resultado
- 99.67% on test.
+ Média 99.75% on test.
 
 ## Confusion Matrix 
 
