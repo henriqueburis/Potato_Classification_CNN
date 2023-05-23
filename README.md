@@ -34,22 +34,13 @@ If you use this method or this code in your paper, then please cite it:
 
 ## Image segment classification on train model.
 
-
-hsv,frame
-
-
 Amostra  |  SAM Teste
 :-------------------------:|:-------------------------:
 ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/example.jpg) |  ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/segmentação.png) 
 
-
-
-
 ## Code organization
 
 - `train.py`: .........
-
-
 
 ## Train
 you can now carry out "run" the python scrypt with the following command:
