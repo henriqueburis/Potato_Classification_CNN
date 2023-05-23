@@ -1,7 +1,7 @@
 # Potato Classification Using CNN_Mixup -------> Em Desenvolvimento
 
 
-By [Luiz H. Buris](http://), [Joel F. H. Quispe](http://), [Miguel Sá](http://)
+By [Luiz H. Buris](http://),  [XXX yyy](http://) [Joel F. H. Quispe](http://)
 
 
 ## Introdução
@@ -38,9 +38,9 @@ If you use this method or this code in your paper, then please cite it:
 hsv,frame
 
 
-Frame Teste  |  hsv Teste
+Frame Teste  |  SAM Teste
 :-------------------------:|:-------------------------:
-![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/frameClone.png) |  ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/blur.png) 
+![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/segmentação.png) |  ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/segmentação.png) 
 
 
 
