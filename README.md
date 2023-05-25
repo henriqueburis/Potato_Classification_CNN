@@ -6,8 +6,7 @@ By [Luiz H. Buris](http://),  [XXX yyy](http://) [Joel F. H. Quispe](http://)
 
 ## Introdução
 
-xxxxxxxxx
-
+Agricultura inteligente é o termo usado atualmente para uma metodologia de gestão agrícola, que visa a melhor produção possível, com um percentual mínimo de perdas de colheita e lucro máximo sem a necessidade de expansão do território. Dentro deste aspecto, são integrados sensores ou dispositivos que fornecem informações no campo da agricultura, como irrigação, temperatura, colheita, etc. No caso deste projeto, focamos na parte visual que incorpora dispositivos de vídeo ou fotografias, que ajudam a controlar o trabalho da indústria através de algoritmos de visão computacional, como é o caso da classificação de batatas, como é o caso de sabendo que é um tubérculo muito consumido em todo o mundo até hoje; A variedade de batatas que existem pelo mundo são muitas e o que as diferencia uma e outra é tanto a cor ou a forma em que podem ser encontradas, sendo o campo de estudo ainda maior; para o nosso trabalho limitamo-lo apenas a 4 classes já mencionadas.
 
 ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/Capturar.PNG)
 
