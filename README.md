@@ -37,6 +37,21 @@ Amostra  |  SAM Teste
 :-------------------------:|:-------------------------:
 ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/example_o.png) |  ![](https://github.com/henriqueburis/Potato_Classification_CNN/blob/main/fig/example_sam.png) 
 
+
+## Data Preparation
+
+```
+<dataets_dir>
+      │
+      ├── train
+      │      ├── batata1 - imagens
+      │      └── batata2    
+      │
+      └── test
+             ├── batata1
+             └── batata2
+```
+
 ## Code organization
 
 - `train.py`: .........
